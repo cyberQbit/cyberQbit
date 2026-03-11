@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+Ayd%C4%B1n+Aydemir;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%C3%96%C4%9Frencisi;Web+%26+Mobil+Geli%C5%9Ftirici;BT+Stajyeri+%40+%C4%B0%C5%9F+Yaz%C4%B1l%C4%B1m" alt="Typing SVG" />
+</div>
 
-<!--
-**cyberQbit/cyberQbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Teknolojiye olan tutkum ve öğrenme azmimle hem bilgisayar programcılığı hem de web tasarım/kodlama alanlarında eğitim alıyorum. Web tasarımı, yazılım geliştirme ve problem çözme konularında kendimi sürekli geliştiriyor, güçlü yönlerimle projelerime değer katıyorum.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://aydinaydmr.com.tr"><img src="https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/aydinaydmr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aydinaydmr@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Hakkımda
+
+- 🎓 **Ankara Üniversitesi**'nde Bilgisayar Programcılığı ve **Atatürk Üniversitesi**'nde Web Tasarım ve Kodlama üzerine çift önlisans eğitimi alıyorum.
+- 💼 Şu anda **İş Yazılım** bünyesinde **BT Stajyeri** olarak görev yapıyorum.
+- 🤝 Gönüllü olarak **AFAD** ve **İHH** bünyesinde çalışmalara katılıyorum.
+- 🔭 Son zamanlarda **ShadowPrint-OSINT** (Asenkron Mikroservis Mimarisi) ve **MooWeather** (Flutter & .NET Core tabanlı hava durumu uygulaması) projeleri üzerinde çalışıyorum.
+
+---
+
+### 🛠️ Teknoloji Yığınım & Yeteneklerim
+
+**Diller & Frameworkler**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Veritabanı & Diğer Yetkinlikler**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/API_Development-005571?style=flat-square&logo=postman&logoColor=white" alt="API Dev" />
+</p>
+
+---
+
+### 📂 Öne Çıkan Projelerim
+
+* **[ShadowPrint-OSINT](https://github.com/cyberQbit/ShadowPrint-OSINT):** Python FastAPI, C# .NET Core ve Dart kullanarak geliştirdiğim, asenkron mikroservis mimarisine sahip gelişmiş bir Açık Kaynak İstihbarat (OSINT) motoru.
+* **[MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile):** Flutter ile tasarlanmış Glassmorphism UI barındıran mobil uygulama ve C# .NET Core ile yazdığım REST API backend'inden oluşan tam kapsamlı hava durumu projesi.
+* **[gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot):** JavaScript (Discord.js) ile geliştirilmiş resmi topluluk botu.
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberQbit&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="İstatistikler" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberQbit&theme=nord&hide_border=true" alt="Seri" width="48%" />
+</div>
+
+<p align="center">
+  <br>
+  <em>"Hayattaki yegane üstünlüğüm, Türk doğmaktır!"</em><br>
+  <b>— Mustafa Kemal Atatürk</b>
+</p>
