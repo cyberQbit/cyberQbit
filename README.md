@@ -49,9 +49,9 @@
 
 ### 📂 Öne Çıkan Projelerim
 
-* **[ShadowPrint-OSINT](https://github.com/cyberQbit/ShadowPrint-OSINT):** Python FastAPI, C# .NET Core ve Dart kullanarak geliştirdiğim, asenkron mikroservis mimarisine sahip gelişmiş bir Açık Kaynak İstihbarat (OSINT) motoru.
-* **[MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile):** Flutter ile tasarlanmış Glassmorphism UI barındıran mobil uygulama ve C# .NET Core ile yazdığım REST API backend'inden oluşan tam kapsamlı hava durumu projesi.
-* **[gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot):** JavaScript (Discord.js) ile geliştirilmiş resmi topluluk botu.
+* **[ShadowPrint-OSINT](https://github.com/cyberQbit/ShadowPrint-OSINT)** ![](https://img.shields.io/badge/Private-30363D?style=flat) **:** Python FastAPI, C# .NET Core ve Dart kullanarak geliştirdiğim, asenkron mikroservis mimarisine sahip gelişmiş bir Açık Kaynak İstihbarat (OSINT) motoru.
+* **[MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter ile tasarlanmış Glassmorphism UI barındıran mobil uygulama ve C# .NET Core ile yazdığım REST API backend'inden oluşan tam kapsamlı hava durumu projesi.
+* **[gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş resmi topluluk botu.
 
 ---
 
