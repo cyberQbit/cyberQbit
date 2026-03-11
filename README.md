@@ -65,6 +65,6 @@
 
 <p align="center">
   <br>
-  <em>"Hayattaki yegane üstünlüğüm, Türk doğmaktır!"</em><br>
-  <b>— Mustafa Kemal Atatürk</b>
+  <em>"Ulu önder tektir. O da Hz. Muhammed'dir."</em><br>
+  <b>— ☝🏻</b>
 </p>
