@@ -58,8 +58,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberQbit&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="İstatistikler" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberQbit&theme=nord&hide_border=true" alt="Seri" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberQbit&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="İstatistikler" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberQbit&theme=nord&hide_border=true" alt="Seri" height="195" />
 </div>
 
 <p align="center">
