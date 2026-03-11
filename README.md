@@ -41,7 +41,7 @@
 
 **Veritabanı & Diğer Yetkinlikler**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Security" />
   <img src="https://img.shields.io/badge/API_Development-005571?style=flat-square&logo=postman&logoColor=white" alt="API Dev" />
 </p>
