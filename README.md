@@ -27,7 +27,7 @@
 
 **Diller & Frameworkler**
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -41,7 +41,7 @@
 
 **Veritabanı & Diğer Yetkinlikler**
 <p align="left">
-  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Server" />
   <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Security" />
   <img src="https://img.shields.io/badge/API_Development-005571?style=flat-square&logo=postman&logoColor=white" alt="API Dev" />
 </p>
