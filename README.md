@@ -24,7 +24,7 @@
         <li>🎓 <b>Ankara Üniversitesi</b> (Bilgisayar Programcılığı) ve <b>Atatürk Üniversitesi</b> (Web Tasarım ve Kodlama) çift önlisans öğrencisiyim.</li>
         <li>💼 <b>İş Yazılım</b> bünyesinde <b>BT Stajyeri</b> olarak görev yapıyorum.</li>
         <li>🤝 <b>AFAD</b> ve <b>İHH</b> gönüllüsüyüm.</li>
-        <li>🔭 Şu an Asenkron Mikroservis Mimarisi, <b>WinSwift Pro</b> ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
+        <li>🔭 Bu sıralar Asenkron Mikroservis Mimarisi, <b>WinSwift Pro</b> ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
       </ul>
     </td>
     <td width="50%">
@@ -33,7 +33,7 @@
         <li>🎓 Double major degree student at <b>Ankara University</b> (Computer Programming) and <b>Atatürk University</b> (Web Design and Coding).</b>.</li>
         <li>💼 Currently working as an <b>IT Intern</b> at <b>İş Yazılım</b>.</li>
         <li>🤝 Volunteer at <b>AFAD</b> and <b>IHH</b> NGOs.</li>
-        <li>🔭 Currently focusing on Asynchronous Microservice Architecture, <b>WinSwift Pro</b>, and <b>MooWeather</b>.</li>
+        <li>🔭 These days focusing on Asynchronous Microservice Architecture, <b>WinSwift Pro</b>, and <b>MooWeather</b>.</li>
       </ul>
     </td>
   </tr>
