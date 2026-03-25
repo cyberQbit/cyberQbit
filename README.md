@@ -87,3 +87,9 @@
   <em>"Ulu önder tektir. O da Hz. Muhammed'dir."</em><br>
   <b>— ☝🏻</b>
 </p>
+
+<p align="center">
+  <br>
+  <em>"There is only one great leader. That is Prophet Muhammad."</em><br>
+  <b>— ☝🏻</b>
+</p>
