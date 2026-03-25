@@ -71,7 +71,7 @@
 
 * **🚀 [WinSwift Pro](https://github.com/cyberQbit/WinSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Gelişmiş, açık kaynaklı Windows optimizasyon ve gizlilik aracı. Çok dilli destek ve sistem onarım modülleri içerir.
 * **☁️ [MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran mobil uygulama ve .NET Core REST API backend projesi.
-* **🤖 [gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
+* **🤖 [Discord Botu](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 
 ---
 
