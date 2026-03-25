@@ -14,12 +14,30 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Hakkımda / About Me
 
-- 🎓 **Ankara Üniversitesi**'nde Bilgisayar Programcılığı ve **Atatürk Üniversitesi**'nde Web Tasarım ve Kodlama üzerine çift önlisans eğitimi alıyorum.
-- 💼 Şu anda **İş Yazılım** bünyesinde **BT Stajyeri** olarak görev yapıyorum.
-- 🤝 Gönüllü olarak **AFAD** ve **İHH** bünyesinde çalışmalara katılıyorum.
-- 🔭 Son zamanlarda Asenkron Mikroservis Mimarisi ve **MooWeather** (Flutter & .NET Core tabanlı hava durumu uygulaması) projeleri üzerinde çalışıyorum.
+<table>
+  <tr>
+    <td width="50%">
+      <strong>🇹🇷 Türkçe</strong>
+      <ul>
+        <li>🎓 <b>Ankara Üniversitesi</b> (Bilgisayar Programcılığı) ve <b>Atatürk Üniversitesi</b> (Web Tasarım ve Kodlama) çift önlisans öğrencisiyim.</li>
+        <li>💼 <b>İş Yazılım</b> bünyesinde <b>BT Stajyeri</b> olarak görev yapıyorum.</li>
+        <li>🤝 <b>AFAD</b> ve <b>İHH</b> gönüllüsüyüm.</li>
+        <li>🔭 Şu an Asenkron Mikroservis Mimarisi ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <strong>🇬🇧 English</strong>
+      <ul>
+        <li>🎓 Double major student in <b>Computer Programming</b> and <b>Web Design/Coding</b>.</li>
+        <li>💼 Currently working as an <b>IT Intern</b> at <b>İş Yazılım</b>.</li>
+        <li>🤝 Volunteer at <b>AFAD</b> and <b>IHH</b> NGOs.</li>
+        <li>🔭 Focusing on Asynchronous Microservice Architecture and <b>MooWeather</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,19 +58,13 @@
   <img src="https://img.shields.io/badge/Batchfile-89e051?style=flat-square&logo=windows-terminal&logoColor=white" alt="Batchfile" />
 </p>
 
-**Veritabanı & Diğer Yetkinlikler**
-<p align="left">
-  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Server" />
-  <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/API_Development-005571?style=flat-square&logo=postman&logoColor=white" alt="API Dev" />
-</p>
-
 ---
 
-### 📂 Öne Çıkan Projelerim
+### 📂 Öne Çıkan Projelerim / Featured Projects
 
-* **[MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter ile tasarlanmış Glassmorphism UI barındıran mobil uygulama ve C# .NET Core ile yazdığım REST API backend'inden oluşan tam kapsamlı hava durumu projesi.
-* **[gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş resmi topluluk botu.
+* **🚀 [WinSwift Pro](https://github.com/cyberQbit/WinSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Gelişmiş, açık kaynaklı Windows optimizasyon ve gizlilik aracı. Çok dilli destek ve sistem onarım modülleri içerir.
+* **☁️ [MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran mobil uygulama ve .NET Core REST API backend projesi.
+* **🤖 [gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 
 ---
 
@@ -68,4 +80,3 @@
   <em>"Ulu önder tektir. O da Hz. Muhammed'dir."</em><br>
   <b>— ☝🏻</b>
 </p>
-
