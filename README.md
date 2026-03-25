@@ -19,21 +19,21 @@
 <table>
   <tr>
     <td width="50%">
-      <strong>🇹🇷 Türkçe</strong>
+      <strong><img src="https://i.imgur.com/3xLders.png" width="20"> Türkçe</strong>
       <ul>
         <li>🎓 <b>Ankara Üniversitesi</b> (Bilgisayar Programcılığı) ve <b>Atatürk Üniversitesi</b> (Web Tasarım ve Kodlama) çift önlisans öğrencisiyim.</li>
         <li>💼 <b>İş Yazılım</b> bünyesinde <b>BT Stajyeri</b> olarak görev yapıyorum.</li>
         <li>🤝 <b>AFAD</b> ve <b>İHH</b> gönüllüsüyüm.</li>
-        <li>🔭 Şu an Asenkron Mikroservis Mimarisi ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
+        <li>🔭 Şu an Asenkron Mikroservis Mimarisi, <b>WinSwift Pro</b> ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
       </ul>
     </td>
     <td width="50%">
-      <strong>🇬🇧 English</strong>
+      <strong><img src="https://i.imgur.com/gpG11L6.png" width="20"> English</strong>
       <ul>
         <li>🎓 Double major student in <b>Computer Programming</b> and <b>Web Design/Coding</b>.</li>
         <li>💼 Currently working as an <b>IT Intern</b> at <b>İş Yazılım</b>.</li>
         <li>🤝 Volunteer at <b>AFAD</b> and <b>IHH</b> NGOs.</li>
-        <li>🔭 Focusing on Asynchronous Microservice Architecture and <b>MooWeather</b>.</li>
+        <li>🔭 Currently focusing on Asynchronous Microservice Architecture, <b>WinSwift Pro</b>, and <b>MooWeather</b>.</li>
       </ul>
     </td>
   </tr>
@@ -56,6 +56,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Batchfile-89e051?style=flat-square&logo=windows-terminal&logoColor=white" alt="Batchfile" />
+</p>
+
+**Veritabanı & Diğer Yetkinlikler**
+<p align="left">
+  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Server" />
+  <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/API_Development-005571?style=flat-square&logo=postman&logoColor=white" alt="API Dev" />
 </p>
 
 ---
