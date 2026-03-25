@@ -30,7 +30,7 @@
     <td width="50%">
       <strong><img src="https://i.imgur.com/gpG11L6.png" width="20"> English</strong>
       <ul>
-        <li>🎓 Double major student in <b>Computer Programming</b> and <b>Web Design/Coding</b>.</li>
+        <li>🎓 Double major degree student at <b>Ankara University</b> (Computer Programming) and <b>Atatürk University</b> (Web Design and Coding).</b>.</li>
         <li>💼 Currently working as an <b>IT Intern</b> at <b>İş Yazılım</b>.</li>
         <li>🤝 Volunteer at <b>AFAD</b> and <b>IHH</b> NGOs.</li>
         <li>🔭 Currently focusing on Asynchronous Microservice Architecture, <b>WinSwift Pro</b>, and <b>MooWeather</b>.</li>
