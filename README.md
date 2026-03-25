@@ -19,7 +19,7 @@
 - 🎓 **Ankara Üniversitesi**'nde Bilgisayar Programcılığı ve **Atatürk Üniversitesi**'nde Web Tasarım ve Kodlama üzerine çift önlisans eğitimi alıyorum.
 - 💼 Şu anda **İş Yazılım** bünyesinde **BT Stajyeri** olarak görev yapıyorum.
 - 🤝 Gönüllü olarak **AFAD** ve **İHH** bünyesinde çalışmalara katılıyorum.
-- 🔭 Son zamanlarda **ShadowPrint-OSINT** (Asenkron Mikroservis Mimarisi) ve **MooWeather** (Flutter & .NET Core tabanlı hava durumu uygulaması) projeleri üzerinde çalışıyorum.
+- 🔭 Son zamanlarda Asenkron Mikroservis Mimarisi ve **MooWeather** (Flutter & .NET Core tabanlı hava durumu uygulaması) projeleri üzerinde çalışıyorum.
 
 ---
 
@@ -50,7 +50,6 @@
 
 ### 📂 Öne Çıkan Projelerim
 
-* **[ShadowPrint-OSINT](https://github.com/cyberQbit/ShadowPrint-OSINT)** ![](https://img.shields.io/badge/Private-30363D?style=flat) **:** Python FastAPI, C# .NET Core ve Dart kullanarak geliştirdiğim, asenkron mikroservis mimarisine sahip gelişmiş bir Açık Kaynak İstihbarat (OSINT) motoru.
 * **[MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter ile tasarlanmış Glassmorphism UI barındıran mobil uygulama ve C# .NET Core ile yazdığım REST API backend'inden oluşan tam kapsamlı hava durumu projesi.
 * **[gokturk-ordusu-bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş resmi topluluk botu.
 
