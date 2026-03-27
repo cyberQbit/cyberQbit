@@ -71,8 +71,8 @@
 
  #### 💻 cyberQbit Terminal Ekosistemi / cyberQbit Terminal Ecosystem 
    * **🧹 [WinSwift Pro - v2.0 ](https://github.com/cyberQbit/WinSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Gelişmiş, açık kaynaklı Windows optimizasyon, temizlik ve gizlilik aracı. Çok    dilli destek ve sistem onarım modülleri içerir.
-   * **🌐 [NetSwift Pro - v2.0 ](https://github.com/cyberQbit/NetSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Elite ağ yönetimi ve siber güvenlik komuta merkezi. Wi-Fi adli bilişimi, akıllı DNS, ağ katili (killswitch) ve LAN/Port zafiyet tarama araçları sunar.
    * **⚡ [DevSwift Pro - v2.0 ](https://github.com/cyberQbit/DevSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Winget altyapısıyla 50'den fazla geliştirici aracını tek tıkla kuran, otomatik çalışma ortamı hazırlama aracı.
+   * **🌐 [NetSwift Pro - v2.0 ](https://github.com/cyberQbit/NetSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Elite ağ yönetimi ve siber güvenlik komuta merkezi. Wi-Fi adli bilişimi, akıllı DNS, ağ katili (killswitch) ve LAN/Port zafiyet tarama araçları sunar.
 
  #### ⭐ Diğer Projelerim / My Other Projects 
    * **⛅ [MooWeather (Mobile](https://github.com/cyberQbit/MooWeather-Mobile)[ & ](https://github.com/cyberQbit)[Backend)](https://github.com/cyberQbit/MooWeather-Backend)[ - v1.0](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
