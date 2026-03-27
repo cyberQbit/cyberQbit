@@ -69,10 +69,10 @@
 
 ### 📂 Öne Çıkan Projelerim / Featured Projects
 
-* **⛅ [MooWeather (Mobile & Backend)](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
-* **🧹 [WinSwift Pro](https://github.com/cyberQbit/WinSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Gelişmiş, açık kaynaklı Windows optimizasyon, temizlik ve gizlilik aracı. Çok dilli destek ve sistem onarım modülleri içerir.
-* **⚡ [DevSwift](https://github.com/cyberQbit/DevSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Winget altyapısıyla 50'den fazla geliştirici aracını tek tıkla kuran, otomatik çalışma ortamı hazırlama aracı.
-* **🤖 [Discord Bot](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
+* **⛅ [MooWeather (Mobile & Backend) - v1.0 ](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
+* **🧹 [WinSwift Pro - v2.0 ](https://github.com/cyberQbit/WinSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Gelişmiş, açık kaynaklı Windows optimizasyon, temizlik ve gizlilik aracı. Çok dilli destek ve sistem onarım modülleri içerir.
+* **⚡ [DevSwift Pro - v2.0 ](https://github.com/cyberQbit/DevSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Winget altyapısıyla 50'den fazla geliştirici aracını tek tıkla kuran, otomatik çalışma ortamı hazırlama aracı.
+* **🤖 [Discord Bot - v2.3.0 ](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 
 ---
 
