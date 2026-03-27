@@ -1,4 +1,4 @@
-<img width="323" height="29" alt="image" src="https://github.com/user-attachments/assets/f641a672-94ea-4517-8e10-e21694e6804c" /><div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1500&size=27&pause=2000&color=36BCF7&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Ayd%C4%B1n+Aydemir;Namıdiğer+cyberQbit;Web+%26+Mobil+Geli%C5%9Ftirici;BT+Stajyeri+%40+%C4%B0%C5%9F+Yaz%C4%B1l%C4%B1m;Siber+Güvenlik+Uzmanı;Yazılımcı;Beyaz+Takkeli+Tornacı" alt="Typing SVG" />
 </div>
 
