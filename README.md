@@ -1,4 +1,4 @@
-<div align="center">
+<img width="323" height="29" alt="image" src="https://github.com/user-attachments/assets/f641a672-94ea-4517-8e10-e21694e6804c" /><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1500&size=27&pause=2000&color=36BCF7&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Ayd%C4%B1n+Aydemir;Namıdiğer+cyberQbit;Web+%26+Mobil+Geli%C5%9Ftirici;BT+Stajyeri+%40+%C4%B0%C5%9F+Yaz%C4%B1l%C4%B1m;Siber+Güvenlik+Uzmanı;Yazılımcı;Beyaz+Takkeli+Tornacı" alt="Typing SVG" />
 </div>
 
@@ -75,7 +75,7 @@
    * **⚡ [DevSwift Pro - v2.0 ](https://github.com/cyberQbit/DevSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Winget altyapısıyla 50'den fazla geliştirici aracını tek tıkla kuran, otomatik çalışma ortamı hazırlama aracı.
 
  #### ⭐ Diğer Projelerim / My Other Projects 
-   * **⛅ [MooWeather](https://github.com/cyberQbit/MooWeather-Mobile) ([Mobile](https://github.com/cyberQbit/MooWeather-Mobile) & [Backend](https://github.com/cyberQbit/MooWeather-Backend)) - [v1.0](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
+   * **⛅ [[MooWeather (Mobile](https://github.com/cyberQbit/MooWeather-Mobile) & [Backend) - v1.0](https://github.com/cyberQbit/MooWeather-Backend)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
    * **🤖 [Discord Bot - v2.3.0 ](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 
 ---
