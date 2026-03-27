@@ -75,7 +75,7 @@
    * **⚡ [DevSwift Pro - v2.0 ](https://github.com/cyberQbit/DevSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Winget altyapısıyla 50'den fazla geliştirici aracını tek tıkla kuran, otomatik çalışma ortamı hazırlama aracı.
 
  #### ⭐ Diğer Projelerim / My Other Projects 
-   * **⛅ [MooWeather](https://github.com/cyberQbit/MooWeather-Mobile) ([Mobile - v1.0](https://github.com/cyberQbit/MooWeather-Mobile) & [Backend](https://github.com/cyberQbit/MooWeather-Backend))** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
+   * **⛅ [MooWeather](https://github.com/cyberQbit/MooWeather-Mobile) ([Mobile](https://github.com/cyberQbit/MooWeather-Mobile) & [Backend](https://github.com/cyberQbit/MooWeather-Backend)) - [v1.0](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
    * **🤖 [Discord Bot - v2.3.0 ](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 
 ---
