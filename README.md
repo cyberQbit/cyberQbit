@@ -24,7 +24,7 @@
         <li>🎓 <b>Ankara Üniversitesi</b> (Bilgisayar Programcılığı) ve <b>Atatürk Üniversitesi</b> (Web Tasarım ve Kodlama) çift önlisans öğrencisiyim.</li>
         <li>💼 <b>İş Yazılım</b> bünyesinde <b>BT Stajyeri</b> olarak görev yapıyorum.</li>
         <li>🤝 <b>AFAD</b> ve <b>İHH</b> gönüllüsüyüm.</li>
-        <li>🔭 Bu sıralar Asenkron Mikroservis Mimarisi, <b>WinSwift Pro</b> , <b>DevSwift</b> ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
+        <li>🔭 Bu sıralar <b>CepteKabin</b> , <b>SwiftHub</b> ve <b>MooWeather</b> projeleri üzerine yoğunlaştım.</li>
       </ul>
     </td>
     <td width="50%">
