@@ -33,7 +33,7 @@
         <li>🎓 Double major degree student at <b>Ankara University</b> (Computer Programming) and <b>Atatürk University</b> (Web Design and Coding).</b>.</li>
         <li>💼 Currently working as an <b>IT Intern</b> at <b>İş Yazılım</b>.</li>
         <li>🤝 Volunteer at <b>AFAD</b> and <b>IHH</b> NGOs.</li>
-        <li>🔭 These days focusing on Asynchronous Microservice Architecture, <b>WinSwift Pro</b> , <b>DevSwift</b> and <b>MooWeather</b>.</li>
+        <li>🔭 Lately I've been focusing on the <b>CepteKabin</b>, <b>SwiftHub</b> and <b>MooWeather</b> projects.</li>
       </ul>
     </td>
   </tr>
