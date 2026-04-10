@@ -77,7 +77,7 @@
    * **🌐 [NetSwift Pro - v2.0 ](https://github.com/cyberQbit/NetSwift)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Elite ağ yönetimi ve siber güvenlik komuta merkezi. Wi-Fi adli bilişimi, akıllı DNS, ağ katili (killswitch) ve LAN/Port zafiyet tarama araçları sunar.
 
  #### ⭐ Diğer Projelerim / My Other Projects 
-   * **👕 [ CepteKabin - v2.2 ](https://github.com/cyberQbit/CepteKabin)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Firebase altyapılı, akıllı dijital gardırop uygulaması. Hava durumuna göre kombin önerileri, kıyafet yönetimi ve kişisel stil asistanı sunar. CepteKabin şimdi PlayStore'da Kapalı Beta olarak yayında!
+   * **👕 [ CepteKabin - v2.2 ](https://github.com/cyberQbit/CepteKabin)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Yapay zeka destekli akıllı gardırop uygulaması. Kıyafetlerini ekle, hava durumuna göre kombin önerisi al, takvimde planla ve arkadaşlarınla paylaş. ML Kit barkod tarama, Room veritabanı, ve iOS tarzı modern UI ile geliştirilmiştir. CepteKabin şimdi PlayStore'da Kapalı Beta olarak yayında!
    * **⛅ [MooWeather (Mobile](https://github.com/cyberQbit/MooWeather-Mobile)[ & ](https://github.com/cyberQbit)[Backend)](https://github.com/cyberQbit/MooWeather-Backend)[ - v1.0](https://github.com/cyberQbit/MooWeather-Mobile)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** Flutter tabanlı Glassmorphism UI barındıran hava durumu mobil uygulaması ve .NET Core REST API backend projesi.
    * **🤖 [Discord Bot - v2.3.0 ](https://github.com/cyberQbit/gokturk-ordusu-bot)** ![](https://img.shields.io/badge/Public-30363D?style=flat) **:** JavaScript (Discord.js) ile geliştirilmiş profesyonel topluluk yönetim botu.
 ---
