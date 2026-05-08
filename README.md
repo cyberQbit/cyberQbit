@@ -185,11 +185,6 @@ irm aydinaydmr.com.tr/core | iex
 
 <div align="center">
 
-/* <img 
-  src="https://github-readme-stats.vercel.app/api?username=cyberQbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" 
-  height="180"
-/>
-*/
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=cyberQbit&theme=tokyonight&hide_border=true&background=0D1117&ring=00CED1&fire=8A2BE2&currStreakLabel=00CED1" 
   height="180"
@@ -197,11 +192,6 @@ irm aydinaydmr.com.tr/core | iex
 
 <br><br>
 
-/*<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberQbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-  height="180"
-/>
-*/
 </div>
 
 ---
