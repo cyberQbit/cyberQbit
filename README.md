@@ -218,7 +218,6 @@ irm aydinaydmr.com.tr/core | iex
 
 ### ⚡ “Code. Automate. Dominate.”
 
-<br><br>
 
 <p align="center"> <em>"Ulu önder tektir. O da Hz. Muhammed'dir."</em><br> <em>"There is only one great leader. That is Prophet Muhammad."</em><br> <b>— ☝🏻</b> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=120&section=footer" width="100%" />
