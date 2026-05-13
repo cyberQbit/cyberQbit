@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=260&section=header&text=AYDIN%20AYDEMIR&fontSize=40&fontAlignY=38&desc=Computer%20Programmer%20%7C%20cyberQbit&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
-<h1 align="center">Selam! Ben Aydın Aydemir (cyberQbit) 🌌</h1>
 <h3 align="center">Sistem Mimarı • Otomasyon Uzmanı • Web & Mobil Geliştirici • Siber Güvenlik Meraklısı</h3>
 
 <p align="center">
