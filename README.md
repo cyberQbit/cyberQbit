@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=260&section=header&text=Welcome%20to%20the%20Command%20Center&fontSize=40&fontAlignY=38&desc=System%20Architect%20%7C%20cyberQbit&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=260&section=header&text=AYDIN%20AYDEMIR&fontSize=40&fontAlignY=38&desc=Computer%20Programmer%20%7C%20cyberQbit&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <h1 align="center">Selam! Ben Aydın Aydemir (cyberQbit) 🌌</h1>
@@ -28,6 +28,10 @@
 
   <a href="https://github.com/cyberQbit">
     <img src="https://img.shields.io/github/followers/cyberQbit?style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <div align="center">
+  <a href="https://github.com/cyberQbit" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=muhammetdag&style=for-the-badge&color=22c55e" alt="Profile View"/>
   </a>
 </p>
 
@@ -223,6 +227,5 @@ irm aydinaydmr.com.tr/core | iex
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=120&section=footer" width="100%" />
 
 </div>
-
 
 
