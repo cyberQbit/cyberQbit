@@ -30,7 +30,7 @@
   </a>
   <div align="center">
   <a href="https://github.com/cyberQbit" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=muhammetdag&style=for-the-badge&color=22c55e" alt="Profile View"/>
+    <img src="https://komarev.com/ghpvc/?username=cyberQbit&style=for-the-badge&color=22c55e" alt="Profile View"/>
   </a>
 </p>
 
